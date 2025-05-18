@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color textColor
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id about_text
+id action_about
+id action_settings
+id button_about
+id button_pause
+id button_settings
+id button_start
+id checkbox_sound
+id game_view
+id seekbar_volume
+id text_volume
+layout activity_about
+layout activity_game
+layout activity_main
+layout activity_settings
+menu main_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw bounce
+string about
+string app_name
+string settings
+style AppTheme
